@@ -1,5 +1,3 @@
-testing commit
-
 # React Drive CMS
 Publish articles directly from Google Drive to your blog with React JS. Simple setup with no transpiling.
 
